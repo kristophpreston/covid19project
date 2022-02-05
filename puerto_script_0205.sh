@@ -1,3 +1,6 @@
+##This script has a JQ Dependency! Make sure you have it installed!
+##The script tends to have issues around the 60~ day pull, if it gives you issues on a 60 day pull, go to 90 days and it shouldn't be throwing "Invalid Numeric Literal" errors.
+
 #!/bin/bash
 
 ## Start day value blank
